@@ -1,2 +1,2 @@
 # Passive-Recon
-#### This is just a mindmap for Passive Recon :)
+#### This is just a mind map for Passive Recon :)
